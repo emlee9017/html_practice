@@ -1,0 +1,47 @@
+body {
+	font-size: 6pt;
+	font-family: Arial;
+}
+
+td {
+	vertical-align: top;
+}
+
+
+h3 {
+	font-size: 6pt;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+h4 {
+	margin: 0;
+}
+
+ul {
+	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+
+ol {
+	padding:10px;
+	margin:0;
+}
+
+p{
+	margin:0;
+}
+
+.wide_input{
+	width:90%;
+}
+
+.canvas_section{	
+	padding:0 10px;
+	border: 1px black solid;
+}
+
+.sublist{	
+	font-style: italic;
+}
