@@ -3,23 +3,28 @@
   box-sizing: border-box;
 
   border: thin red solid;
-}*/
-a:link{
-	color:white;
-	text-decoration: none;
-}
-a:visited{
-	color:white;
-	text-decoration: none;
-}
-.button{
-	background-color: #A9E2F3;
-    border-radius: 7px;
-    box-shadow: 2px 2px 5px 0 gray;
-    color:white;
-    text-align: center;
-    font-size: 18px;
-}
-/* You can turn it off if you want. (delete or comment it out) */
+  }*/
+  a:link{
+   color:white;
+   text-decoration: none;
+ }
+ a:visited{
+   color:white;
+   text-decoration: none;
+ }
 
-/* Write your rules below */
+ .button{
+   background-color: lightblue;
+   border-radius: 10px;
+   box-shadow: 1px 1px 1px 0 gray;
+
+   color:white;
+   text-align: center;
+  
+   display: block;
+   width:100%;
+   padding:5px;
+ }
+ /* You can turn it off if you want. (delete or comment it out) */
+
+ /* Write your rules below */
